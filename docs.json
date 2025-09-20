@@ -17,8 +17,8 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "create-account",
+              "create-first-report"
             ]
           }
         ]
