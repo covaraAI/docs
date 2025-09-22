@@ -7,7 +7,7 @@
     "light": "#0a8be1",
     "dark": "#f4ab08"
   },
-  "favicon": "favicon.png",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -19,6 +19,17 @@
               "index",
               "create-account",
               "create-first-report"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "API reference",
+        "groups": [
+          {
+            "group": "API documentation",
+            "pages": [
+              "api-reference/index"
             ]
           }
         ]
@@ -40,8 +51,8 @@
     }
   },
   "logo": {
-    "light": "logo/light.png",
-    "dark": "logo/dark.png"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
