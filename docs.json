@@ -52,7 +52,8 @@
   },
   "logo": {
     "light": "/logo/light.png",
-    "dark": "/logo/dark.png"
+    "dark": "/logo/dark.png",
+    "href": "https://www.covara.ai"
   },
   "navbar": {
     "links": [
